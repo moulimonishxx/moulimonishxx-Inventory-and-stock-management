@@ -1,0 +1,11 @@
+com\inventorymanagement\dao\CategoryDao.class
+com\inventorymanagement\dao\OrderDao.class
+com\inventorymanagement\dao\ProductDao.class
+com\inventorymanagement\util\ANSIColors.class
+com\inventorymanagement\util\DBConnection.class
+com\inventorymanagement\model\Category.class
+com\inventorymanagement\model\Product.class
+com\inventorymanagement\model\Order.class
+com\inventorymanagement\dao\UserDao.class
+com\inventorymanagement\App.class
+com\inventorymanagement\model\User.class
