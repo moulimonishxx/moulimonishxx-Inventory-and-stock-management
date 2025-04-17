@@ -36,7 +36,7 @@ This is a simple **Inventory Management System** built using Java, JDBC, Maven, 
 ### 🔹 1. Clone the Repository
 
 ```sh
-git clone https://github.com/sir-zech/Inventory-and-stock-management.git
+https://github.com/moulimonishxx/moulimonishxx-Inventory-and-stock-management.git
 ```
 
 ### 🔹 2. Install Dependencies
